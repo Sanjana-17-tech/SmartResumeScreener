@@ -1,0 +1,9 @@
+Job Description
+Project Role : Software Development Engineer
+Project Role Description : Analyze, design, code and test multiple components of application code across one or more clients. Perform maintenance, enhancements and/or development work.
+Must have skills : Node.js
+Good to have skills : NA
+Minimum 5 year(s) of experience is required
+Educational Qualification : 15 years full time education
+
+Summary: As a Software Development Engineer, you will engage in a dynamic work environment where you will analyze, design, code, and test various components of application code for multiple clients. Your day will involve collaborating with team members to ensure the successful implementation of software solutions, while also performing maintenance and enhancements to existing applications. You will be responsible for delivering high-quality code and contributing to the overall success of the projects you are involved in, ensuring that client requirements are met effectively and efficiently. Roles & Responsibilities: - Expected to be an SME. - Collaborate and manage the team to perform. - Responsible for team decisions. - Engage with multiple teams and contribute on key decisions. - Provide solutions to problems for their immediate team and across multiple teams. - Mentor junior team members to enhance their skills and knowledge. - Continuously evaluate and improve development processes to increase efficiency. Professional & Technical Skills: - Must To Have Skills: Proficiency in Node.js. - Strong understanding of RESTful API design and development. - Experience with database management systems such as MongoDB or MySQL. - Familiarity with version control systems, particularly Git. - Knowledge of software development methodologies, including Agile and Scrum. Additional Information: - The candidate should have minimum 5 years of experience in Node.js. - This position is based at our Gurugram office. - A 15 years full time education is required.

@@ -1,0 +1,8 @@
+Project Role : Application Developer
+Project Role Description : Design, build and configure applications to meet business process and application requirements.
+Must have skills : Veeva Vault
+Good to have skills : NA
+Minimum 15 year(s) of experience is required
+Educational Qualification : 15 years full time education
+
+Summary: As an Application Developer, you will be involved in designing, building, and configuring applications to meet business process and application requirements. You will play a crucial role in developing solutions that align with organizational goals and enhance operational efficiency. Roles & Responsibilities: - Expected to be a SME with deep knowledge and experience. - Should have Influencing and Advisory skills. - Responsible for team decisions. - Engage with multiple teams and contribute on key decisions. - Expected to provide solutions to problems that apply across multiple teams. - Lead the development and implementation of Veeva Vault applications. - Collaborate with cross-functional teams to gather requirements and design solutions. - Provide technical guidance and mentorship to junior team members. Professional & Technical Skills: - Must To Have Skills: Proficiency in Veeva Vault. - Strong understanding of data security and compliance. - Experience in integrating Veeva Vault with other enterprise systems. - Knowledge of Veeva Vault configuration and customization. - Good To Have Skills: Experience with Veeva CRM. Additional Information: - The candidate should have a minimum of 15 years of experience in Veeva Vault. - This position is based at our Bengaluru office. - A 15 years full-time education is required.
